@@ -11,3 +11,4 @@ function Student(props)
     );
 }
 export default Student;
+// function Based Component
